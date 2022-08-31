@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Stano</h1>
-<h3 align="center">learning Jr. Full Stack Developer from Italy</h3>
 <p align="center"> <img src="https://svgshare.com/i/mG0.svg"> </p> <br>
+<h3 align="center">learning Jr. Full Stack Developer from Italy</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brun0stan0&label=Profile%20views&color=0e75b6&style=flat" alt="brun0stan0" /> </p>
 
 - 🔭 I’m currently study on [EPICODE SCHOOL](http://epicode.com/)
