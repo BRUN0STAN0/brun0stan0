@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-End & Back-End**
 
-- 👨‍💻 All of my projects are available at [https://brun0stan0.github.io](https://brun0stan0.github.io)
+- 👨‍💻 All of my projects are available at **[https://brun0stan0.github.io](https://brun0stan0.github.io)**
 
 - 📫 How to reach me **contact@brunostano.com**
 
