@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at **[https://brun0stan0.github.io](https://brun0stan0.github.io)**
 
-- 📫 How to reach me **contact@brunostano.com**
+- 📫 How to reach me **brunostano00@pm.me**
 
-- 📄 Know about my experiences [https://brun0stan0.github.io/CV-BrunoStano-08.07.22/](https://brun0stan0.github.io/CV-BrunoStano-08.07.22/)
+- 📄 Know about my experiences [https://brun0stan0.github.io/MyResume/](https://brun0stan0.github.io/MyResume/)
 
 - ⚡ Fun fact **You want study with me?**
 
