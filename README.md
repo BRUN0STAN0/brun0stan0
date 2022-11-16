@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://brun0stan0.github.io/MyResume/](https://brun0stan0.github.io/MyResume/)
 
-- ⚡ Languages: **HTML - CSS - JAVASCRIPT - TYPESCRIPT - ANGULAR - .NET**
+- ⚡ Languages: **HTML - CSS - SCSS - BOOTSTRAP - JAVASCRIPT - TYPESCRIPT - ANGULAR - .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
