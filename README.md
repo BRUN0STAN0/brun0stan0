@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **brunostano00@pm.me**
 
+- 📫 My linkedin profile is here!! [https://www.linkedin.com/in/brunostano/](https://www.linkedin.com/in/brunostano/)
+
+
 - 📄 Know about my experiences [https://brun0stan0.github.io/MyResume/](https://brun0stan0.github.io/MyResume/)
 
 - ⚡ Fun fact **You want study with me?**
