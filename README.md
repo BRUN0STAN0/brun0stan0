@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bruno Stano</h1>
 <p align="center"> <img src="https://svgshare.com/i/mG0.svg"> </p>
-<h3 align="center">learning Jr. Full Stack Developer from Italy</h3>
+<h3 align="center">Full Stack Developer from Italy</h3>
 
 
 - 🔭 I’m currently study on [EPICODE SCHOOL](http://epicode.com/)
