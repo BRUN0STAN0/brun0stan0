@@ -2,8 +2,9 @@
 
 <h1 align="center">Bruno Stano</h1>
 <h3 align="center">Student in BSc Computer Engineer & Artificial Intelligence</h3>
-**brunostano00@protonmail.com**
- [https://www.linkedin.com/in/brunostano/](https://www.linkedin.com/in/brunostano/)
+<p align="center"> brunostano00@protonmail.com
+linkedin.com/in/brunostano
+</p>
 
 
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brun0stan0&show_icons=true&locale=en&layout=compact" alt="brun0stan0" /></p>
